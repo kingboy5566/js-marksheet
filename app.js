@@ -21,7 +21,7 @@ if ( per >= 80 && per <= 100){
                       document.write("<br> Obtaining Marks " + obtainingMarks);
                       document.write("<br> Percentage " + per + "%");
                       document.write("<br> Grade: A-one ");
-                      document.write("<br> You need to improve ") }
+        }
 
  else if( per >= 70 && per < 80){
                       document.write("Total Marks 300 ");
@@ -50,7 +50,7 @@ else if (per <= 40){
                       document.write("<br> you are fail");}
 
      else {
-            document.write(" <br> You will be not improve ");}
+            document.write(" <br> Durus andraj kejye..! ");}
 
 
 
